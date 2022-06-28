@@ -25,6 +25,8 @@ SOFTWARE.
 
 #pragma once
 
+#include <Windows.h>
+
 //
 // Represents the desired target type for the emulated device.
 //  
